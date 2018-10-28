@@ -58,3 +58,4 @@ The University of Oslo offers the following courses in Computational Science, sp
 |-------------------------------------------------------------------------------------------|
 
 ###  Data Science
+A list of courses with a short description within Machine learning is available at https://www.mn.uio.no/english/research/about/centre-focus/innovation/data-science/studies/
