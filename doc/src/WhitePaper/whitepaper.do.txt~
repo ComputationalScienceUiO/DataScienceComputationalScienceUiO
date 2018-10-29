@@ -1,16 +1,9 @@
 TITLE: Computing Across the Disciplines: How UiO should meet the Future
-AUTHOR: "Contact person: Morten Hjorth-Jensen, Department of Physics, University of Oslo":"http://mhjgit.github.io/info/doc/web/"
-DATE: A whitepaper on how to organize Computational Science and Data Science initiatives at UiO, prepared for the Mat-Nat Fakultetet of the University of Oslo
+AUTHOR: Morten Hjorth-Jensen, Department of Physics, University of Oslo":"http://mhjgit.github.io/info/doc/web/"
+DATE: today
 
 ===== Executive Summary =====
 
-This proposal seeks to transform the University of Oslo (UiO) to
-become a leader nationally and
-internationally in scientific discovery through large-scale
-computations and data-driven research. The aim is to position UiO as a leader in
-computational and data sciences by recruiting faculty whose expertise pertains
-to large-scale computing and mathematical foundations of data science - both generalists (algorithm/tool developers) and specialists
-(focused on specific disciplines).  
 
 Scientific computing plays a central role in scientific investigations
 and is central to innovation in most domains of our lives. It
@@ -22,10 +15,22 @@ the STEM (Science, Technology, Engineering and Mathematics) fields
 will be in computing":"http://pathways.acm.org/executive-summary.html"
 (Association for Computing Machinery, 2013).
 
-Furthermore, the "3rd Industrial Revolution":"http://www.economist.com/node/21553017" will alter significantly the demands on the workforce. To adapt a highly-qualified workforce to coming challenges  requires strong fundamental bases in STEM fields. Computational Science can provide such bases at all stages. Most of our students at both the undergraduate and the graduate level are unprepared to use computational modeling, data science, and high performance computing – skills valued by a very broad range of employers. The new department will also focus on the development of courses in computational science and data science tailored to the needs of the rest of society, both for the private and the public sector.
+Furthermore, the "3rd Industrial
+Revolution":"http://www.economist.com/node/21553017" will alter
+significantly the demands on the workforce. To adapt a
+highly-qualified workforce to coming challenges requires strong
+fundamental bases in STEM fields. Computational Science can provide
+such bases at all stages. Most of our students at both the
+undergraduate and the graduate level are unprepared to use
+computational modeling, data science, and high performance computing –
+skills valued by a very broad range of employers. 
 
-These developments, needs and future challenges, as well as
-the developments which are now taking place within "quantum computing, quantum information":"https://www.aps.org/publications/apsnews/201802/ostp.cfm?utm_source=APS+Physics+Main+Group&utm_campaign=fb7a2e7d6b-News+021218&utm_medium=email&utm_term=0_825303224b-fb7a2e7d6b-106513221" and data driven discoveries (data analysis and machine learning) will play an essential role in shaping future technological developments. Most of these developments require true cross-disciplinary approaches, approaches which normally cannot be accomplished within the realms of one single disciplinary-based department. 
+These developments, needs and future challenges,
+will play an essential role in shaping future technological
+developments. Most of these developments require true
+cross-disciplinary approaches, approaches which normally cannot be
+accomplished within the realms of one single disciplinary-based
+department.
 
 
 This document aims at developing strategies for meeting
@@ -46,14 +51,6 @@ Oslo will need to hire at least some 25-30 new faculty in order to
 meet future challenges. Many of the needed competences and research
 area are only weakly covered, or are non-existing, by present faculty.
 
-We propose thus a two-step process
-* Establish a working group by April 1 2018. This working group  will be tasked to deliver a final report with various strategies  by the end of fall 2018.
-* From spring 2019, start the work needed to establish for example a new Department (or center), called _Department of Computational and Data Sciences_ by fall 2020. The new department will be a hub for innovative thinking and pave the way for research and education in computational and data science across all disciplines. 
-
-The new department (or center) will be part of the
-Matematisk Naturvitenskapelige Fakultetet (MNFak in brief) of the university of Oslo,
-although it aims at becoming a true inter-disciplinary department
-serving all colleges (Law, Natural Science and Mathematics, Medicine,
 the Humanities, Education and the Social Sciences). It is the MNFak
 which will propose to the board of the university of Oslo the
 establishment of the department (eventually the center).  We propose thus
@@ -123,6 +120,14 @@ education. This research nexus also gives rise to the educational opportunities 
 synergy, leveraging common resources among disciplines, and enabling joint programs and
 unique degrees across the entire computational space.
 
+
+
+The present version of the document focuses on the establishment of a new department. 
+
+Other possibilities that should be explored are: 
+o The establishment of one or more centers in Computational Science and Data Science. The center(s) will lay the foundation for cross-disciplinary activities and establish the necessary foundations and preparations for launching for example a new department. It will develop research projects across disciplines as well as develop educational programs and initatives related to the establishment of an eventual new department or modification of existing departments.
+o A cluster hire at various departments in order to strengthen overall research and educational competences in computational science and data science. In this case one would most likely need a center or department  that coordinates such activities. Here one could think of for example 3-5 new positions in Computational Mathematics at the Department of Mathematics, a similar amount in Physics, Bioscience, Geoscience, Economy, Social Science etc.;
+o The enlargement/change/extension of existing departments. As an example, the present Department of Mathematics could be enlarged in order to accomodate the future needs. 
 
 
 ===== Why should we focus on developing a department in Computational and Data Sciences? =====
@@ -268,54 +273,27 @@ similar and recently established departments are also presented.
 
 
 
-===== Appendix A: Tentative list of   working group members (February 2018)  =====
+===== Appendix A: Working group members ( 2018)  =====
 
 
-o Bioscience: "Tom Andersen":"http://www.mn.uio.no/ibv/english/people/aca/tomand/", "Marianne Fyhn":"http://www.mn.uio.no/ibv/english/people/aca/mariafy/" and "Lex Nederbragt":"http://www.mn.uio.no/cees/english/people/technical/alexajo/"
-o Chemistry and Hylleraas Center for Quantum Molecular Sciences: "Michele Cascella":"https://www.mn.uio.no/kjemi/english/people/aca/michelec/"
-o Geoscience: "John Burkhart":"http://www.mn.uio.no/geo/english/people/aca/geohyd/johnbur/index.html", "Joe Lacasce":"http://www.mn.uio.no/geo/english/people/aca/metos/josepl/" and "Thomas Vikhamar Schuler":"http://www.mn.uio.no/geo/english/people/aca/geohyd/thomasc/"
-#o IFI Bioinformatics: Torbjørn Rognes and Geir Kjetil Sandve
-o IFI: "Andreas Austeng":"https://www.mn.uio.no/ifi/personer/vit/andrea/","Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html"
-o Math: "Kent-Andre Mardal":"https://folk.uio.no/kent-and/" and "Knut Mørken":"http://www.mn.uio.no/math/personer/vit/knutm/index.html"
+o IFI: 
+o Math: 
 o Physics and Center of Computing in Science Education: "John Mark Aiken":"http://www.mn.uio.no/fysikk/english/people/johnmai/", "Morten Hjorth-Jensen":"http://mhjgit.github.io/info/doc/web/" and  "Anders Malthe-Sørenssen":"http://www.mn.uio.no/fysikk/english/people/aca/malthe/"
-o SIMULA research lab: "Xing Cai":"http://www.mn.uio.no/ifi/personer/vit/xingca/index.html", "Simon Funke":"https://www.simula.no/people/simon", "Marie Rognes":"https://marierognes.org/", "Joakim Sundnes":"http://www.mn.uio.no/ifi/english/people/aca/sundnes/index.html", and "Aslak Tveito":"https://www.simula.no/people/aslak"
-#o Economy: Kjetil Storsletten and Halvor Mehlum? Tentative
-o Department of Political Science: "Bjørn Høyland":"http://www.sv.uio.no/isv/personer/vit/bjornkho/"
-o Department of Sociology and Human Geography: "Torkild Hovde Lyngstad":"http://www.sv.uio.no/iss/english/people/aca/torkildl/"
-o Department of Psychology: "Nikolai Olavi Czajkowski":"http://www.sv.uio.no/psi/english/people/aca/nikolaic/index.html"
+
 
 ===  Summary of Timeline  ===
 
-o Establish a working group by April 1 2018. The working group will be tasked with evaluating various scenarios for strengthening Computational Science and Data Science at UiO. The report will be finalized during Fall 2018.
-o Start establish from spring 2019 a department (or possible center)  called _Department of Computational and Data Sciences_, with inauguration by end of 2020/begin 2021. 
-o "New Master of Science Program on Computational Science starts fall 2018":"http://www.uio.no/english/studies/programmes/computational-science-master/index.html"
-o "New Master of Science Program on Data Science starts fall 2018":"http://www.uio.no/english/studies/programmes/datascience-master/index.html"
+
 o Establish  a cross-college PhD program in Computational and Data Sciences, start fall 2020. This PhD program will be a collaboration between the Natural Sciences, Humanities, Social Sciences, Medicine and Education. 
 o Develop a corresponding cross-college MSc program in Computational Science and Data Science by fall 2020.
 o An undergraduate program in Computational and Data Sciences tailored to various disciplines by fall 2020
 o Develop courses and course modules in Computational Science and Data Science for the private and the public sectors by fall 2019.
 o Develop a Master of Science program and a PhD program in Computational Science and Data Science tailored to the needs of the private and the public sectors, allowing for students residing outside UiO to develop their knowledge about Computational Science and Data Science by fall 2021.
-o Submit an application called _Computing Across the Disciplines_ for a Marie Curie training network by spring 2019, 15 PhD positions
 
-===  Alternative paths to be explored ===
 
-The present version of the document focuses on the establishment of a new department. 
-
-Other possibilities that should be explored are: 
-o The establishment of one or more centers in Computational Science and Data Science. The center(s) will lay the foundation for cross-disciplinary activities and establish the necessary foundations and preparations for launching for example a new department. It will develop research projects across disciplines as well as develop educational programs and initatives related to the establishment of an eventual new department or modification of existing departments.
-o A cluster hire at various departments in order to strengthen overall research and educational competences in computational science and data science. In this case one would most likely need a center or department  that coordinates such activities. Here one could think of for example 3-5 new positions in Computational Mathematics at the Department of Mathematics, a similar amount in Physics, Bioscience, Geoscience, Economy, Social Science etc.;
-o The enlargement/change/extension of existing departments. As an example, the present Department of Mathematics could be enlarged in order to accomodate the future needs. 
 
 
 ===== Appendix B: Structure and Justification for Planned Organization =====
-
-We envision that the CDS department  will be a truly interdisciplinary unit that strives to focus on algorithmic
-science and its applications to a range of critical research topics. The CDS department will consist of 25-30
-faculty, comprising generalists and disciplinary scientists. The generalists develop cross-disciplinary
-tools addressing large classes of problems. The disciplinary scientists pursue
-model/algorithm development from a domain-specific perspective, enabling application-specific
-approximations and optimization of performance on exascale problems. The nexus of these
-groups is what makes CDS unique.
 
 The cross-disciplinary  working group  that developed this
 proposal seeks the creation of a joint, inter-college department as the ideal solution. This
