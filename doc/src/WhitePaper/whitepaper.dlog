@@ -1,0 +1,5 @@
+translating doconce text in whitepaper.do.txt to html
+
+*** error: inconsistent no of = in heading:
+=== Imaging and Biomedical Computing ====
+    lengths: 3 and 4, must be equal and odd
