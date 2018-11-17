@@ -1,0 +1,212 @@
+﻿Data Science and Computational Science - report from a committee at the Faculty of Mathematics and Natural Sciences
+1.  Introduction and background
+
+
+Data Science (DS), including machine learning, and Computational
+Science (CS) are fast-growing scientific areas that are very important
+for the Faculty of Mathematics and Natural Sciences. For instance, the
+fall of 2018 we started two new Master study programs in these areas,
+so the first students are now enrolled here. There was a major
+interest for each of these programs with many applicants, both
+Norwegian and international students. Moreover, many of the courses
+within these programs have a much broader interest for students in
+other study programs at our faculty as well. Finally, a very important
+fact is the massive interest in society and in the job market for
+candidates with this kind of DS and/or CS background. In particular,
+the interest concerning machine learning techniques noteworthy.
+
+
+The faculty is in the process of making a new strategy which describes
+what will be important activities in the period until 2030. Moreover,
+this faculty strategy will form the basis for actions in the next few
+years. So, in this setting, the central questions are (i) which
+concrete actions should the faculty carry out in the DS+CS area, and
+(ii) how can the faculty in a best possible way support these
+activities. The faculty has therefore appointed a committee whose task
+is to provide recommendations concerning the activities in the DS+CS
+areas at our faculty. The committee shall mainly focus on the part of
+DS+CS that is based on mathematical areas, including, of course,
+statistics and computations. However, one shall also present the more
+application-oriented activities (e.g. in machine learning) and the
+connection between the research focused on methods versus this more
+application-oriented research. A detailed description of the mandate
+is in Appendix 1.
+
+
+In this report it is practical to use some abbreviations, and here is a list of these:
+* DS: Data Science
+* CS: Computational Science
+* MI: Department of Mathematics
+* FI: Department of Physics
+* IFI: Department of Computer Science
+
+
+The committee consisted of the following people:
+Leader:
+Geir Dahl (MI)
+Members:
+Anne Solberg (IFI)
+Ole Christian Lingjærde (IFI)
+Morten Hjorth-Jensen (FI)
+Heidi Sandaker (FI)
+Ingrid Glad (MI)
+Geir Storvik (MI)
+
+
+The remaining report is organized as follows. …..
+2.  Clarification of the scientific terms
+
+
+What is Data Science (DS)
+
+Data science (DS) has grown into a separate scientific field, both due
+to the exponential growth of available data and due to the emerge of
+new methods and algorithms to analyse these, but perhaps the most
+important part is the potential value that companies sees in
+data-driven decision making.  There are various definitions on DS, but
+the most common definitions describes DS as the whole process of
+discovery, knowledge extraction and decision making based on data. It
+includes definition of questions of interest, data collection and
+preparation, exploratory analysis, modelling, evaluation and
+presentation of results.  Data science blends statistical and
+computational thinking. The art of data science is to understand how
+to apply the tools available in the context of a specific dataset and
+for answering specific (scientific) questions, but also deciding which
+data to acquire, making the human perspective even more important than
+before (in contrary to the belief that modern machine learning tools
+can be used as black boxes).  Donoho (2017) Defines Data Science as
+the union of six areas 1. Data gathering, preparation, and
+exploration.  2. Data representation and transformation.  3. Computing
+with data.  4. Data modeling.  5. Data visualization and presentation.
+6. Science about data science.  Statistics and computer science are
+core … with mathematics as an important basis. In short one can say
+that Data Science is the science of extracting knowledge or insight
+from various types of data.
+
+
+Carmichael and Marron (2018): Data science is the business of learning
+from data, which is traditionally the business of statistics. Data
+science, however, is often understood as a broader, task-driven and
+computationally-oriented version of statistics.
+
+
+Machine learning techniques are in many cases presented as the main
+tools within Data science, but many other tools and fields such as
+database management, web-scrapping, visualization etc are equally
+important.
+
+
+Applications of Data Science tools are today spread around the whole faculty. However, methodological development within Data Science is mainly concentrated around Department of Mathematics (section 2) and Department of Informatics (sections …) with smaller research groups perhaps also at Department of Physics and ??
+
+
+Morten HJ writes about the idea of computers as problem-solving tools. A main problem within machine learning today is the hype that such tools can be used as black boxes and solve any kind of problem. It is important to recognize that the computer is just a tool to perform the computing necessary while the main challenge is to decide what to compute!
+Further, the explosion of data in many cases requires more modelling, not less. An example is the “p larger than n” settings occurring for example in genomics. With few individuals, extracting information makes it necessary to constrain models, not expanding them.
+The data growth also include non-standard and complex data, also requiring more modelling than less
+
+
+
+
+Representative data/bias (garbage in-garbage out), ethics, personalization,    
+
+
+Some useful links
+https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world
+
+
+https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/big-data-the-next-frontier-for-innovation
+
+
+
+
+
+
+
+
+ 
+What is Computational Science (CS)
+…..
+Connections between DS and CS
+….(MORTEN)....
+3. Education in DS and CS at MN/UiO
+
+
+Education in Data Science at MN/UiO
+
+
+Education in data science at MN/UiO can be divided into specific programmes which specialize in Data Science and courses which cover different topics within Data Science. 
+
+
+At the bachelor level, the Mathematics with informatics has a “studieretning” Statistics with Data Science which in addition gives a good blend of mathematics, statistics and informatics also include some courses on Data Science specific topics (statistical learning, database management, algorithms). 
+
+
+At the master level, a new program in Data science started fall 2018. This is a specialized program aiming at educating methodologically strong candidates in Data Science. It differs in that respect from many other Data Science programs around the world which focus more on learning the tools to apply Data Science techniques. Focus is not on learning to apply Data Science to a specific domain, but rather to be a generalized able to apply DS to any domain (being part of a team with specific domain knowledge). Communication is then an essential part. 
+
+
+Most topics within Data Science are given in traditional courses, but within machine learning there has a whole range of new courses popping up, without much synchronization, partly overlapping and with descriptions making it difficult for students to decide which course to select. A list of relevant courses is given on https://www.mn.uio.no/english/research/about/centre-focus/innovation/data-science/studies/ were also some guidelines on choise is given (but far from sufficient!)
+
+
+An increasing number of master students within other scientific fields are using Data Science, and in particular machine learning tools. Supervision of such student are in some cases problematic in that the supervisors involved are not that much into such tools. Many of the statisticians are asked for help in this, but the capacity for following such inquiries is limited. 
+
+
+We have had success in integrating computational science in our bachelor studies. Is the time now to integrate data science as well into the bachelor studies? This is only partly done now through some “practical” introductory courses in statistics and some domain courses which include some aspects of data analysis.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Education in Computational Science at MN/UiO
+
+
+….. (MORTEN) ….
+4. Research in DS and CS at MN
+
+
+Research in DS at MI
+
+
+Most of the research within DS at MI is concentrated around the analytics part of the Data science workflow. This both involves development of new sophisticated datadriven “machine learning” tools and making more traditional model based tools useful for big data settings. It involves extending/modifying models to new settings, deriving more efficient algorithms and deriving mathematical properties of the methods involved. It also involves applying machine learning tools to new applications. Much of the development of new methods is performed at section 2(?), mathematical properties are also studied at section ?? while sections ?? apply … The people involved are Riccardo De Bin, Ingrid Glad, Geir Storvik, ….
+
+
+Most of the research within Data Science is performed through PhD projects, many which are sponsored by the SFI BigInsight. There has also been an increasing interest in the “Nærings-PhD” options with many inquiries from external companies having specific projects and candidates ready. Due to capacity problems, many of these requests have been turned down. 
+
+
+We also see an increasing number of requests to participate in projects from other fields were Data Science/machine learning methodology is required (Prio, IBV, ) 
+
+
+Say something about possibilities to include other areas of MI? Representation learning involve topology, differential geometry …
+
+
+
+
+Research in DS and CS at IFI
+
+
+…(ANNE og OLE CHR)...
+
+
+
+
+
+
+
+
+Research in DS and CS at FI
+
+
+…(HEIDI og MORTEN)...
+
+
+
+
+5. External demands and expectations
+
+
+In addition to the “Nærings-Phd” requests, we see there is a huge demand of Data Scientist outside academia. This will partly be served by the new master program, but also more PhD candidates as well as courses towards the industry will be in demand.
