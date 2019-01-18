@@ -1,61 +1,49 @@
-## Here follows a list of courses in Computational Science and Data Science
 
-###  Computational Science
+===                Mathematics  and Computer Science, including Mechanics and Statistics     ===
 
-===== Presently available courses at UiO  =====
-
-The University of Oslo offers the following courses in Computational Science, split here according to main disciplines/fields.  
-
-|-------------------------------------------------------------------------------------------|
-|                Mathematics  and Computer Science, including Mechanics and Statistics      |
-|-------------------------------------------------------------------------------------------|
-|  "MAT-INF3360 Introduction to Partial Differential Equations ":"http://www.uio.no/studier/emner/matnat/math/MAT-INF3360/index-eng.html" | 
-| "MAT-INF4110 Mathematical Optimization":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4110/index.html" |
-|  "MAT-INF4130  Numerical Linear Algebra":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4130/index-eng.html" | 
-|  "MAT-INF4140 Numerical Analysis ":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4140/index-eng.html" | 
-|  "MAT-INF4160 Topics in Geometric Modelling ":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4160/index-eng.html" | 
-|  "MAT-INF4300 Partial differential equations and Sobolev spaces I":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4300/index-eng.html" | 
-|  "MAT-INF4310 Partial differential equations and Sobolev spaces II ":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4310/index-eng.html" | 
-| "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"|
-|  "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html" |
-| "INF4300 Digital image analysis":"https://www.uio.no/studier/emner/matnat/ifi/INF4300/index-eng.html"|
-| "INF4331 Problem solving with high level languages":"http://www.uio.no/studier/emner/matnat/ifi/INF4331/index-eng.html"|
-| "INF4820 Algorithms for artificial intelligence and natural language processing":"https://www.uio.no/studier/emner/matnat/ifi/INF4820/index-eng.html"|
-| "INF5620 Numerical Methods for Partial Differential Equations":"http://www.uio.no/studier/emner/matnat/ifi/INF5620/index-eng.html"|
-| "INF5631 Project on Numerical Methods for Partial Differential Equations": "http://www.uio.no/studier/emner/matnat/ifi/INF5631/index-eng.html"|
-| "INF5670 Numerical methods for Navier-Stokes equations":"http://www.uio.no/studier/emner/matnat/ifi/INF5670/"   |
-| "INF5840 Computability theory":"https://www.uio.no/studier/emner/matnat/ifi/INF5840/index-eng.html"   |
-| "INF5850 Machine Learning for Image Analysis":"http://www.uio.no/studier/emner/matnat/ifi/INF5860/index-eng.html"|
-| "STK4021 Applied Bayesian Analysis and Numerical Methods":"http://www.uio.no/studier/emner/matnat/math/STK4021/index-eng.html"|
-| "STK4520 Laboratory for Finance and Insurance Mathematics":"http://www.uio.no/studier/emner/matnat/math/STK4520/index-eng.html"|
-|-------------------------------------------------------------------------------------------|
+o "MAT-INF3360 Introduction to Partial Differential Equations ":"http://www.uio.no/studier/emner/matnat/math/MAT-INF3360/index-eng.html"  
+o "MAT-INF4110 Mathematical Optimization":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4110/index.html" 
+o "MAT-INF4130  Numerical Linear Algebra":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4130/index-eng.html"  
+o "MAT-INF4140 Numerical Analysis ":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4140/index-eng.html"  
+o "MAT-INF4160 Topics in Geometric Modelling ":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4160/index-eng.html"  
+o "MAT-INF4300 Partial differential equations and Sobolev spaces I":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4300/index-eng.html"  
+o "MAT-INF4310 Partial differential equations and Sobolev spaces II ":"http://www.uio.no/studier/emner/matnat/math/MAT-INF4310/index-eng.html"  
+o "MEK4250 Finite Element Methods in Computational Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4250/index-eng.html"
+o "MEK4470  Computational Fluid Mechanics":"http://www.uio.no/studier/emner/matnat/math/MEK4470/index-eng.html" 
+o "INF4300 Digital image analysis":"https://www.uio.no/studier/emner/matnat/ifi/INF4300/index-eng.html"
+o "INF4331 Problem solving with high level languages":"http://www.uio.no/studier/emner/matnat/ifi/INF4331/index-eng.html"
+o "INF4820 Algorithms for artificial intelligence and natural language processing":"https://www.uio.no/studier/emner/matnat/ifi/INF4820/index-eng.html"
+o "INF5620 Numerical Methods for Partial Differential Equations":"http://www.uio.no/studier/emner/matnat/ifi/INF5620/index-eng.html"
+o "INF5631 Project on Numerical Methods for Partial Differential Equations": "http://www.uio.no/studier/emner/matnat/ifi/INF5631/index-eng.html"
+o "INF5670 Numerical methods for Navier-Stokes equations":"http://www.uio.no/studier/emner/matnat/ifi/INF5670/"   
+o "INF5840 Computability theory":"https://www.uio.no/studier/emner/matnat/ifi/INF5840/index-eng.html"   
+o "INF5850 Machine Learning for Image Analysis":"http://www.uio.no/studier/emner/matnat/ifi/INF5860/index-eng.html"
+o "STK4021 Applied Bayesian Analysis and Numerical Methods":"http://www.uio.no/studier/emner/matnat/math/STK4021/index-eng.html"
+o "STK4520 Laboratory for Finance and Insurance Mathematics":"http://www.uio.no/studier/emner/matnat/math/STK4520/index-eng.html"
 
 
-|-------------------------------------------------------------------------------------------|
-|                Physical Sciences: Physics, Astrophysics, Geosciences and Chemistry      |
-|-------------------------------------------------------------------------------------------|
-| "FYS4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html"|
-| "FYS4411 Computational Physics II":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/"|
-| "FYS4460 Computational Physics III":"http://www.uio.no/studier/emner/matnat/fys/FYS4460/"|
-| "GEO4310 Stochastic methods in hydrology":"http://www.uio.no/studier/emner/matnat/geofag/GEO4310/"|
-| "GEO4510 Atmosphere and Oceans on Computers: Fundamentals ":"http://www.uio.no/studier/emner/matnat/geofag/GEF4510/"|
-| "GEO4450 Geophysical Fluid Dynamics ":"http://www.uio.no/studier/emner/matnat/geofag/GEF4450/index-eng.html"|
-| "AST5210 Stellar Atmospheres I":"http://www.uio.no/studier/emner/matnat/astro/AST5210/index-eng.html"|
-| "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"|
-|-------------------------------------------------------------------------------------------|
 
 
-|-------------------------------------------------------------------------------------------|
-|             Bioscience including Bioinformatics      |
-|-------------------------------------------------------------------------------------------|
-| "INF4490 Biologically inspired computing":"http://www.uio.no/studier/emner/matnat/ifi/INF4490/index.html"          |
-| "INF4350 Introductory Course in Bioinformatics":"http://www.uio.no/studier/emner/matnat/ifi/INF4350/index-eng.html"|
-| "INF-BIO5121 High Throughput Sequencing technologies and bioinformatics analysis":"http://www.uio.no/studier/emner/matnat/ifi/INF-BIO5121/index.html"   |
-| "INF5380 High-performance computing in bioinformatics":"http://www.uio.no/studier/emner/matnat/ifi/INF5380/"  |
-| "INF5560 Computational Physiology":"http://www.uio.no/studier/emner/matnat/ifi/INF5560/"  |
-| "MBV-INF4410 Bioinformatics for Molecular Biology":"http://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/"   |
-| "MBV3070 Bioinformatics":"http://www.uio.no/studier/emner/matnat/ibv/MBV3070/index-eng.html"   |
-|-------------------------------------------------------------------------------------------|
+===                Physical Sciences: Physics, Astrophysics, Geosciences and Chemistry      ===
 
-###  Data Science
+o "FYS4150 Computational Physics I":"http://www.uio.no/studier/emner/matnat/fys/FYS4150/index-eng.html"
+o "FYS4411 Computational Physics II":"http://www.uio.no/studier/emner/matnat/fys/FYS4411/"
+o "FYS4460 Computational Physics III":"http://www.uio.no/studier/emner/matnat/fys/FYS4460/"
+o "GEO4310 Stochastic methods in hydrology":"http://www.uio.no/studier/emner/matnat/geofag/GEO4310/"
+o "GEO4510 Atmosphere and Oceans on Computers: Fundamentals ":"http://www.uio.no/studier/emner/matnat/geofag/GEF4510/"
+o "GEO4450 Geophysical Fluid Dynamics ":"http://www.uio.no/studier/emner/matnat/geofag/GEF4450/index-eng.html"
+o "AST5210 Stellar Atmospheres I":"http://www.uio.no/studier/emner/matnat/astro/AST5210/index-eng.html"
+o "AST9110 Numerical Modeling":"http://www.uio.no/studier/emner/matnat/astro/AST9110/index-eng.html"
+
+===             Bioscience including Bioinformatics       ===
+
+o "INF4490 Biologically inspired computing":"http://www.uio.no/studier/emner/matnat/ifi/INF4490/index.html"          
+o "INF4350 Introductory Course in Bioinformatics":"http://www.uio.no/studier/emner/matnat/ifi/INF4350/index-eng.html"
+o "INF-BIO5121 High Throughput Sequencing technologies and bioinformatics analysis":"http://www.uio.no/studier/emner/matnat/ifi/INF-BIO5121/index.html"   
+o "INF5380 High-performance computing in bioinformatics":"http://www.uio.no/studier/emner/matnat/ifi/INF5380/"  
+o "INF5560 Computational Physiology":"http://www.uio.no/studier/emner/matnat/ifi/INF5560/"  
+o "MBV-INF4410 Bioinformatics for Molecular Biology":"http://www.uio.no/studier/emner/matnat/ibv/MBV-INF4410/"   
+o "MBV3070 Bioinformatics":"http://www.uio.no/studier/emner/matnat/ibv/MBV3070/index-eng.html"   
+
+=== Data Science ===
 A list of courses with a short description within Machine learning is available at https://www.mn.uio.no/english/research/about/centre-focus/innovation/data-science/studies/
